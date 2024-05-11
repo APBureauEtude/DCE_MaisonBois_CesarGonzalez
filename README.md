@@ -15,3 +15,5 @@ https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/archive/refs/heads
 Poser des questions sur le projet ici : 
 
 https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/issues
+
+https://apbureauetude.github.io/DCE_MaisonBois_CesarGonzalez/
