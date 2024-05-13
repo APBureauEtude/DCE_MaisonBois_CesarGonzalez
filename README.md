@@ -22,3 +22,6 @@ https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/issues
 
 Historique des fichiers mis en ligne ici :
 https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/actions
+
+Visite en vidéo : 
+https://youtu.be/b1tJ-KluLeU
