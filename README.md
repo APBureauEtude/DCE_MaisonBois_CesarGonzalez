@@ -11,7 +11,7 @@
   <img src="https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/blob/main/Visuel/Projet%20v1.03%20%2020240511%2017h11m46s.png" width="350" title="hover text">
 </p>
 
-Remise des offres pour le 15/06/2024 à 12H00
+## Remise des offres pour le 15/06/2024 à 12H00
 
 Télécharger le DCE Complet : 
 https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/archive/refs/heads/main.zip
@@ -26,6 +26,8 @@ https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/actions
 Visite en vidéo : 
 https://youtu.be/b1tJ-KluLeU
 
-Visuel 3d :
+## Visuel 3d 
 
 Plans béton : https://3dwarehouse.sketchup.com/model/c929f3c0-f80b-41d7-a6b6-c3cdbd6ca9fe/Plan-Beton-v001
+
+Plans Charpente :
