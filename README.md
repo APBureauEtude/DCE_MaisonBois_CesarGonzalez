@@ -23,7 +23,7 @@ https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/issues
 Historique des fichiers mis en ligne ici :
 https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/activity
 
-Visite en vidéo : 
+Visite du site en vidéo : 
 https://youtu.be/b1tJ-KluLeU
 
 ## Visuel 3d 
