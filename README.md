@@ -1,5 +1,5 @@
 # DCE Maison Bois Cesar Gonzalez
-## Dossier de Consultation des Entreprises pour le chiffrage du projet de maison bois de M. Gonzalez Cesar et Mme Fleurier Montaine.
+## Dossier de Consultation des Entreprises pour le chiffrage du projet de maison bois de M. Gonzalez César et Mme Fleurier Montaine.
 
 <p align="center">
   <img src="https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/blob/main/Visuel/Projet%20v1.03%20%2020240511%2017h07m07s.png" width="350" title="hover text">
