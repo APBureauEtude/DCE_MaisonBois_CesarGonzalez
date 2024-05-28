@@ -39,10 +39,10 @@ Plans béton Sketchup : https://3dwarehouse.sketchup.com/model/c929f3c0-f80b-41d
 
 Plans Archi Sketchup : https://3dwarehouse.sketchup.com/model/1165a9ff-b998-4119-9b1a-3378650472fb/Plan-Archi
 
-## Répondre au DCE
-Renvoyez votre DQE remplie au format Excel et *pdf à cette adresse ap.bureau.etude@gmail.com
 
 ## Collaborateurs :
+
+Dessinateur et DCE : M. Gonzalez Carlo AP Tel : 0667123406 Email : ap.bureau.etude@gmail.com
 
 Maitre d'œuvre / Maitre d'ouvrage :  M. Gonzalez César Tel : 0672270503 Email : cesar.gonzalez@orange.fr
 
@@ -53,6 +53,7 @@ Etude Géo téchnique de sol :  M. Rollet Pascal Tel : 0786990186 Email : monetu
 Bureau d'étude Thermique RE2020 :  Mme. Le Gal Peggy Tel : 0661894232 Email :  contact@behemilia.fr
 
 
-
+## Répondre au DCE
+Renvoyez votre DQE remplie au format Excel et *pdf à cette adresse ap.bureau.etude@gmail.com
 
 
