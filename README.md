@@ -35,10 +35,11 @@ Vidéo 3D plan Archi & Charpente bois : https://youtu.be/Y0HjD98PQDM
 
 Vidéo 3D plan béton : https://youtu.be/_5wOmTGrQwo
 
-Plans béton Sketchup : https://3dwarehouse.sketchup.com/model/c929f3c0-f80b-41d7-a6b6-c3cdbd6ca9fe/Plan-Beton-v001
+Plans béton Fichier Sketchup : https://3dwarehouse.sketchup.com/model/c929f3c0-f80b-41d7-a6b6-c3cdbd6ca9fe/Plan-Beton-v001
 
-Plans Archi Sketchup : https://3dwarehouse.sketchup.com/model/1165a9ff-b998-4119-9b1a-3378650472fb/Plan-Archi
+Plans Archi Fichier Sketchup : https://3dwarehouse.sketchup.com/model/1165a9ff-b998-4119-9b1a-3378650472fb/Plan-Archi
 
+Telecharger la visionneuse pour lire les fichiers Sketchup : https://www.sketchup.com/fr/sketchup-viewer/downloads
 
 ## Collaborateurs :
 
