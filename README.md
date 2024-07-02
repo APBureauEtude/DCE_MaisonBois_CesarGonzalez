@@ -12,9 +12,6 @@
 </p>
 
 
-Consulter le DCE sans le télécharger : 
-https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/tree/main/DCE%20v1.00
-
 Télécharger le DCE Complet : 
 https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/archive/refs/heads/main.zip
 
