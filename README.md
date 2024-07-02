@@ -15,13 +15,6 @@
 Télécharger le DCE Complet : 
 https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/archive/refs/heads/main.zip
 
-
-Poser des questions sur le projet ici : 
-https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/issues
-
-Historique des fichiers mis en ligne ici :
-https://github.com/APBureauEtude/DCE_MaisonBois_CesarGonzalez/activity
-
 Visite du site en vidéo : 
 https://youtu.be/b1tJ-KluLeU
 
